@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.fontWeight": "normal",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Jetbrains Mono",
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Andromeda"
+}
